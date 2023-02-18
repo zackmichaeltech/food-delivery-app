@@ -1,7 +1,9 @@
 # Food Delivery App
-
-<img src="./assets/mockup.png" alt="mockup" width="25%" height="25%">
-
+<div align="center">
+  <img src="./assets/mockup1.png" alt="mockup" width="25%" height="25%">
+  <img src="./assets/mockup2.png" alt="mockup" width="25%" height="25%">
+  <img src="./assets/mockup3.png" alt="mockup" width="25%" height="25%">
+</div>
 ## Used techs and sytems
 
 - [React Native](https://reactnative.dev/)

@@ -4,6 +4,7 @@
   <img src="./assets/mockup2.png" alt="mockup" width="25%" height="25%">
   <img src="./assets/mockup3.png" alt="mockup" width="25%" height="25%">
 </div>
+
 ## Used techs and sytems
 
 - [React Native](https://reactnative.dev/)

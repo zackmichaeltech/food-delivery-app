@@ -1,9 +1,10 @@
 # Food Delivery App
-<div align="center">
-  <img src="./assets/mockup1.png" alt="mockup" width="25%" height="25%">
-  <img src="./assets/mockup2.png" alt="mockup" width="25%" height="25%">
-  <img src="./assets/mockup3.png" alt="mockup" width="25%" height="25%">
+<div align="center" >
+  <img src="https://user-images.githubusercontent.com/45735208/219925525-19132db8-32f6-48a6-a0cd-720ae2f4fa63.png" alt="mockup" width="25%" height="25%">
+  <img src="https://user-images.githubusercontent.com/45735208/219925807-8ec6d682-5757-448d-addc-2b7a95852031.png" alt="mockup" width="25%" height="25%">
+  <img src="https://user-images.githubusercontent.com/45735208/219926174-128e6cea-e5df-4a2b-8975-a5cc0b469c5a.png" alt="mockup" width="25%" height="25%">
 </div>
+
 
 ## Used techs and sytems
 
